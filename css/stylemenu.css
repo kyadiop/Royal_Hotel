@@ -1,0 +1,25 @@
+@media(max-width:1440px){
+	
+	.menu__list {
+		position: relative;
+		margin-top: 2PX;
+	}
+	.navbar-collapse.collapse {
+		display: block !important;
+		height: 5PX;
+		padding-bottom: 0;
+		overflow: visible !important;
+	}
+	.menu--iris {
+		padding-top: 20px;
+		background: #dd3d3d;
+		/* margin-right: 10em; */
+		/* margin-left: 5em; */
+	}
+	.container {
+		padding-right: 0px;
+		padding-left: 15px;
+		margin-right: 1px;
+		margin-left: auto;
+	}
+}
